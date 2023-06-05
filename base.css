@@ -125,7 +125,7 @@ q:after {
 }
 table {
   border-collapse: collapse;
-  border-spacing: 0;
+  border-spacing: 1;
 }
 
 /* Center the container */
@@ -137,5 +137,5 @@ table {
 
 /* Give canvas a background */
 canvas {
-  background-color: black;
+  background-color: blue;
 }
